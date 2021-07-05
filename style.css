@@ -1,0 +1,56 @@
+body{font-family: 'Indie Flower', cursive;
+margin:0}
+#salad{color:#38ef7d;}
+#head1{font-size: 40px;
+font-weight:bolder;}
+#head2{text-align: center;
+    font-size: 40px;
+    font-weight:bolder}
+#p1{text-align: center;}
+.top-banner{background-image: url(images/topban.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;}
+.flexible{display:flex;
+        padding-top: 50px;
+        padding-bottom: 50px;}
+.area{padding-left:10%;
+        width: 50%;}
+
+.area img{width:80%;}
+.middle-banner{background-image: url(images/middleban1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.bottom-banner{padding-top: 1px;
+    background-image: url(images/bottomban.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.flex1{display: flex;
+padding-top:80px;
+padding-bottom:50px;
+
+padding-right: 20px;
+}
+
+.onethird-width{padding-left:5%;
+    width:75%}
+
+.button{background-image: linear-gradient(#11998e,#38ef7d);
+text-decoration: none;
+border-radius: 10px;
+padding: 5px;
+color:black;}
+.box{width:50%;
+    padding: 50px;
+    margin-left: 3%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px red;
+    border-radius: 20px;
+}
+footer{background-color:coral;
+padding-top: 1px;
+padding-bottom:1px;}
+footer h1{text-align: center;}
+footer p{text-align: center;}
+
