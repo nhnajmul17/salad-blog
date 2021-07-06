@@ -9,13 +9,15 @@ font-weight:bolder;}
 #p1{text-align: center;}
 #icon{padding-left: 50px;
     width:50px; height:50px;}
+    
 .top{display: flex;
     background-color:rgb(228, 247, 255);
     padding-top: 0.1px;
     padding-bottom: 0.1px;}
 .area3{
     padding-left:15%;}
-.top-banner{background-image: url(images/topban.jpg);
+.top-banner{
+    background-image: url(images/topban.jpg);
     background-repeat:no-repeat;
     background-size: cover;}
 .flexible{display:flex;
